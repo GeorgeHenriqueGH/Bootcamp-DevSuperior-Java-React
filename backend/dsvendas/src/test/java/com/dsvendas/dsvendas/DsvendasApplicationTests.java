@@ -1,4 +1,4 @@
-package com.devsuperiorhenrique.dsvendas;
+package com.dsvendas.dsvendas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

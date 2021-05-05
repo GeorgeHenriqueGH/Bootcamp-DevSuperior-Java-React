@@ -8,11 +8,11 @@
 		<version>2.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devsuperiorhenrique</groupId>
+	<groupId>com.dsvendas</groupId>
 	<artifactId>dsvendas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsvendas</name>
-	<description>Projeto treinamento DevSuperior Spring Boot com ReactJS</description>
+	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -30,6 +30,12 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<scope>runtime</scope>
+			<optional>true</optional>
+		</dependency>
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
