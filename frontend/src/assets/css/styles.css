@@ -35,3 +35,7 @@ html, body {
 .text-secondary {
     color: #FFFFFF !important;
 }
+
+.center {
+    margin-top: 20vh;
+}
