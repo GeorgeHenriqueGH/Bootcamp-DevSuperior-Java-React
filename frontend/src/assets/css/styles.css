@@ -45,6 +45,7 @@ html, body {
     width: 100%;
 }
 
-.page-link .disabled{
+.btn-dark {
     border-color: var(--color-secondary) !important;
+    background-color: var(--color-secondary) !important;
 }
