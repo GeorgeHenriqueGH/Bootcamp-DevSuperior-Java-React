@@ -44,3 +44,7 @@ html, body {
 .largura {
     width: 100%;
 }
+
+.page-link .disabled{
+    border-color: var(--color-secondary) !important;
+}
