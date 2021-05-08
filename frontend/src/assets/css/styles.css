@@ -40,3 +40,7 @@ html, body {
 .text-secondary {
     color: #FFFFFF !important;
 }
+
+.largura {
+    width: 100%;
+}
