@@ -4,7 +4,7 @@
 
 Nessa semana fizemos um app com dashboard e tabela mostrando os vendedores visitas e produtos vendidos.
 
-Usando uma rest api em **Java** backend utilizando para guardar os dados em, um banco de dados **Postgres** e manipulando os dados no frontend **React**.
+Usando uma rest api em **Java** backend utilizado para guardar os dados em um, banco de dados **Postgres** e renderizando os dados no frontend **React**.
 
 ### Customização 
 
