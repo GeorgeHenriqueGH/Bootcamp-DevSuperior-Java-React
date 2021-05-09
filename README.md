@@ -1,6 +1,6 @@
 # ⚡ Semana Spring React @DevSuperior
 
-**[Meu Linkdin](linkedin.com/in/george-henrique-c-c-campos-1abb6b201)**
+**[Meu Linkdin](https://www.linkedin.com/in/george-henrique/)**
 
 Nessa semana fizemos um app com dashboard e tabela mostrando os vendedores visitas e produtos vendidos.
 
