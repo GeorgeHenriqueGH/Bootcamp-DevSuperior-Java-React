@@ -23,3 +23,4 @@ Decidi fazer uma modificação no tema para deixa-lo escuro estilo **Material De
 - React Router
 - Axios
 - React date-fns
+- Bootstrap
